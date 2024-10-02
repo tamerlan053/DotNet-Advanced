@@ -6,7 +6,11 @@ public class OrderByExamples
 {
     public double[] SortAnglesFromBigToSmall(double[] angles)
     {
-        throw new NotImplementedException("Use LINQ to implement this method");
+        var query = from angle in angles
+                    orderby angle ascending
+                    select angle;
+
+        return query.ToArray();
     }
 
     public IList<Person> SortPersonsFromYoungToOldAndThenOnNameAlphabetically(List<Person> persons)
