@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\2-LINQ\\PayablesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD91720-54AC-4C6B-B4C9-71558DE167EF}|PayablesApp.Infrastructure\\PayablesApp.Infrastructure.csproj|c:\\users\\tim\\documents\\dotnetadvanced\\leermaterialen\\2-linq\\payablesapp\\payablesapp.infrastructure\\inmemoryvendorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD91720-54AC-4C6B-B4C9-71558DE167EF}|PayablesApp.Infrastructure\\PayablesApp.Infrastructure.csproj|solutionrelative:payablesapp.infrastructure\\inmemoryvendorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD91720-54AC-4C6B-B4C9-71558DE167EF}|PayablesApp.Infrastructure\\PayablesApp.Infrastructure.csproj|c:\\users\\tim\\documents\\dotnetadvanced\\leermaterialen\\2-linq\\payablesapp\\payablesapp.infrastructure\\inmemoryinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD91720-54AC-4C6B-B4C9-71558DE167EF}|PayablesApp.Infrastructure\\PayablesApp.Infrastructure.csproj|solutionrelative:payablesapp.infrastructure\\inmemoryinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8B22C1-46B4-46C8-8893-B0F967C46445}|PayablesApp.AppLogic\\PayablesApp.AppLogic.csproj|c:\\users\\tim\\documents\\dotnetadvanced\\leermaterialen\\2-linq\\payablesapp\\payablesapp.applogic\\contracts\\ivendorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8B22C1-46B4-46C8-8893-B0F967C46445}|PayablesApp.AppLogic\\PayablesApp.AppLogic.csproj|solutionrelative:payablesapp.applogic\\contracts\\ivendorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8B22C1-46B4-46C8-8893-B0F967C46445}|PayablesApp.AppLogic\\PayablesApp.AppLogic.csproj|c:\\users\\tim\\documents\\dotnetadvanced\\leermaterialen\\2-linq\\payablesapp\\payablesapp.applogic\\contracts\\iinvoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8B22C1-46B4-46C8-8893-B0F967C46445}|PayablesApp.AppLogic\\PayablesApp.AppLogic.csproj|solutionrelative:payablesapp.applogic\\contracts\\iinvoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8B22C1-46B4-46C8-8893-B0F967C46445}|PayablesApp.AppLogic\\PayablesApp.AppLogic.csproj|c:\\users\\tim\\documents\\dotnetadvanced\\leermaterialen\\2-linq\\payablesapp\\payablesapp.applogic\\invoicebalancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8B22C1-46B4-46C8-8893-B0F967C46445}|PayablesApp.AppLogic\\PayablesApp.AppLogic.csproj|solutionrelative:payablesapp.applogic\\invoicebalancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8B22C1-46B4-46C8-8893-B0F967C46445}|PayablesApp.AppLogic\\PayablesApp.AppLogic.csproj|c:\\users\\tim\\documents\\dotnetadvanced\\leermaterialen\\2-linq\\payablesapp\\payablesapp.applogic\\invoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8B22C1-46B4-46C8-8893-B0F967C46445}|PayablesApp.AppLogic\\PayablesApp.AppLogic.csproj|solutionrelative:payablesapp.applogic\\invoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DB0B05-43E3-476C-BFF4-2A2BCE517B8D}|PayablesApp.Domain\\PayablesApp.Domain.csproj|c:\\users\\tim\\documents\\dotnetadvanced\\leermaterialen\\2-linq\\payablesapp\\payablesapp.domain\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DB0B05-43E3-476C-BFF4-2A2BCE517B8D}|PayablesApp.Domain\\PayablesApp.Domain.csproj|solutionrelative:payablesapp.domain\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DB0B05-43E3-476C-BFF4-2A2BCE517B8D}|PayablesApp.Domain\\PayablesApp.Domain.csproj|c:\\users\\tim\\documents\\dotnetadvanced\\leermaterialen\\2-linq\\payablesapp\\payablesapp.domain\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DB0B05-43E3-476C-BFF4-2A2BCE517B8D}|PayablesApp.Domain\\PayablesApp.Domain.csproj|solutionrelative:payablesapp.domain\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8B22C1-46B4-46C8-8893-B0F967C46445}|PayablesApp.AppLogic\\PayablesApp.AppLogic.csproj|c:\\users\\tim\\documents\\dotnetadvanced\\leermaterialen\\2-linq\\payablesapp\\payablesapp.applogic\\payablesapp.applogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE8B22C1-46B4-46C8-8893-B0F967C46445}|PayablesApp.AppLogic\\PayablesApp.AppLogic.csproj|solutionrelative:payablesapp.applogic\\payablesapp.applogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8B22C1-46B4-46C8-8893-B0F967C46445}|PayablesApp.AppLogic\\PayablesApp.AppLogic.csproj|c:\\users\\tim\\documents\\dotnetadvanced\\leermaterialen\\2-linq\\payablesapp\\payablesapp.applogic\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8B22C1-46B4-46C8-8893-B0F967C46445}|PayablesApp.AppLogic\\PayablesApp.AppLogic.csproj|solutionrelative:payablesapp.applogic\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InMemoryVendorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\2-LINQ\\PayablesApp\\PayablesApp.Infrastructure\\InMemoryVendorRepository.cs",
+              "RelativeDocumentMoniker": "PayablesApp.Infrastructure\\InMemoryVendorRepository.cs",
+              "ToolTip": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\2-LINQ\\PayablesApp\\PayablesApp.Infrastructure\\InMemoryVendorRepository.cs",
+              "RelativeToolTip": "PayablesApp.Infrastructure\\InMemoryVendorRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:29:54.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InMemoryInvoiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\2-LINQ\\PayablesApp\\PayablesApp.Infrastructure\\InMemoryInvoiceRepository.cs",
+              "RelativeDocumentMoniker": "PayablesApp.Infrastructure\\InMemoryInvoiceRepository.cs",
+              "ToolTip": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\2-LINQ\\PayablesApp\\PayablesApp.Infrastructure\\InMemoryInvoiceRepository.cs",
+              "RelativeToolTip": "PayablesApp.Infrastructure\\InMemoryInvoiceRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:29:47.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IVendorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\2-LINQ\\PayablesApp\\PayablesApp.AppLogic\\Contracts\\IVendorRepository.cs",
+              "RelativeDocumentMoniker": "PayablesApp.AppLogic\\Contracts\\IVendorRepository.cs",
+              "ToolTip": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\2-LINQ\\PayablesApp\\PayablesApp.AppLogic\\Contracts\\IVendorRepository.cs",
+              "RelativeToolTip": "PayablesApp.AppLogic\\Contracts\\IVendorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:29:44.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IInvoiceService.cs",
+              "DocumentMoniker": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\2-LINQ\\PayablesApp\\PayablesApp.AppLogic\\Contracts\\IInvoiceService.cs",
+              "RelativeDocumentMoniker": "PayablesApp.AppLogic\\Contracts\\IInvoiceService.cs",
+              "ToolTip": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\2-LINQ\\PayablesApp\\PayablesApp.AppLogic\\Contracts\\IInvoiceService.cs",
+              "RelativeToolTip": "PayablesApp.AppLogic\\Contracts\\IInvoiceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:29:43.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvoiceBalanceDto.cs",
+              "DocumentMoniker": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\2-LINQ\\PayablesApp\\PayablesApp.AppLogic\\InvoiceBalanceDto.cs",
+              "RelativeDocumentMoniker": "PayablesApp.AppLogic\\InvoiceBalanceDto.cs",
+              "ToolTip": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\2-LINQ\\PayablesApp\\PayablesApp.AppLogic\\InvoiceBalanceDto.cs",
+              "RelativeToolTip": "PayablesApp.AppLogic\\InvoiceBalanceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:29:35.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvoiceDto.cs",
+              "DocumentMoniker": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\2-LINQ\\PayablesApp\\PayablesApp.AppLogic\\InvoiceDto.cs",
+              "RelativeDocumentMoniker": "PayablesApp.AppLogic\\InvoiceDto.cs",
+              "ToolTip": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\2-LINQ\\PayablesApp\\PayablesApp.AppLogic\\InvoiceDto.cs",
+              "RelativeToolTip": "PayablesApp.AppLogic\\InvoiceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:29:34.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vendor.cs",
+              "DocumentMoniker": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\2-LINQ\\PayablesApp\\PayablesApp.Domain\\Vendor.cs",
+              "RelativeDocumentMoniker": "PayablesApp.Domain\\Vendor.cs",
+              "ToolTip": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\2-LINQ\\PayablesApp\\PayablesApp.Domain\\Vendor.cs",
+              "RelativeToolTip": "PayablesApp.Domain\\Vendor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:29:26.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\2-LINQ\\PayablesApp\\PayablesApp.Domain\\Invoice.cs",
+              "RelativeDocumentMoniker": "PayablesApp.Domain\\Invoice.cs",
+              "ToolTip": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\2-LINQ\\PayablesApp\\PayablesApp.Domain\\Invoice.cs",
+              "RelativeToolTip": "PayablesApp.Domain\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:29:25.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PayablesApp.AppLogic.csproj",
+              "DocumentMoniker": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\2-LINQ\\PayablesApp\\PayablesApp.AppLogic\\PayablesApp.AppLogic.csproj",
+              "RelativeDocumentMoniker": "PayablesApp.AppLogic\\PayablesApp.AppLogic.csproj",
+              "ToolTip": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\2-LINQ\\PayablesApp\\PayablesApp.AppLogic\\PayablesApp.AppLogic.csproj",
+              "RelativeToolTip": "PayablesApp.AppLogic\\PayablesApp.AppLogic.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-29T14:36:27.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InvoiceService.cs",
+              "DocumentMoniker": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\2-LINQ\\PayablesApp\\PayablesApp.AppLogic\\InvoiceService.cs",
+              "RelativeDocumentMoniker": "PayablesApp.AppLogic\\InvoiceService.cs",
+              "ToolTip": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\2-LINQ\\PayablesApp\\PayablesApp.AppLogic\\InvoiceService.cs",
+              "RelativeToolTip": "PayablesApp.AppLogic\\InvoiceService.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAuwKgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:50:32.555Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
