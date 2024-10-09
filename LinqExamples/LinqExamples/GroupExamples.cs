@@ -6,11 +6,23 @@ public class GroupExamples
 {
     public IList<IGrouping<int, int>> GroupEvenAndOddNumbers(int[] numbers)
     {
-        throw new NotImplementedException("Use LINQ to implement this method");
+        var query = from number in numbers
+                    group number by number % 2 into g
+                    select g;
+
+        return query.ToList();
     }
 
     public IList<PersonsOfSameBirthYearGroup> GroupPersonsByBirthYear(IList<Person> persons)
     {
-        throw new NotImplementedException("Use LINQ to implement this method");
+        var query = from person in persons
+                    group person by person.BirthDate.Year into g
+                    select new PersonsOfSameBirthYearGroup
+                    {
+                        BirthYear = g.Key,
+                        Persons = g
+                    };
+
+        return query.ToList();
     }
 }
