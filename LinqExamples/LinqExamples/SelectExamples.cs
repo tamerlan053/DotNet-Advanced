@@ -24,7 +24,16 @@ namespace LinqExamples
 
         public IList<AngleInfo> ConvertAnglesToAngleInfos(IEnumerable<double> anglesInDegrees)
         {
-            throw new NotImplementedException("Use LINQ to implement this method");
+            var query = from angle in anglesInDegrees
+                        select new AngleInfo
+                        {
+                            Angle = angle,
+                            Cosinus = Math.Cos(angle * Math.PI / 180),
+                            Sinus = Math.Sin(angle * Math.PI / 180)
+                        };
+
+
+            return query.ToList();
         }
     }
 }
