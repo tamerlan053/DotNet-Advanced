@@ -15,6 +15,10 @@ public class OrderByExamples
 
     public IList<Person> SortPersonsFromYoungToOldAndThenOnNameAlphabetically(List<Person> persons)
     {
-        throw new NotImplementedException("Use LINQ to implement this method");
+        var query = from person in persons
+                    orderby person.BirthDate ascending, person.Name
+                    select person;
+
+        return query.ToList();
     }
 }
