@@ -6,11 +6,19 @@ public class WhereExamples
 {
     public int[] FilterOutNumbersDivisibleByTen(int[] numbers)
     {
-        throw new NotImplementedException("Use LINQ to implement this method");
+        var query  = from number in numbers
+                     where number % 10 == 0 
+                     select number;
+
+        return query.ToArray();
     }
 
     public IList<Person> FilterOutPersonsThatAreEighteenOrOlder(List<Person> persons)
     {
-        throw new NotImplementedException("Use LINQ to implement this method");
+        var query = from person in persons
+                    where person.BirthDate.Year <= 18
+                    select person;
+
+        return query.ToArray();
     }
 }
