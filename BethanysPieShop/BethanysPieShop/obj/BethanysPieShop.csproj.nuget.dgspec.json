@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Pluralsight\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj": {}
+    "C:\\Users\\Tim\\Desktop\\net\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Pluralsight\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj": {
+    "C:\\Users\\Tim\\Desktop\\net\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Pluralsight\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+        "projectUniqueName": "C:\\Users\\Tim\\Desktop\\net\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
         "projectName": "BethanysPieShop",
-        "projectPath": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Pluralsight\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+        "projectPath": "C:\\Users\\Tim\\Desktop\\net\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
         "packagesPath": "C:\\Users\\Tim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Pluralsight\\BethanysPieShop\\BethanysPieShop\\obj\\",
+        "outputPath": "C:\\Users\\Tim\\Desktop\\net\\BethanysPieShop\\BethanysPieShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
