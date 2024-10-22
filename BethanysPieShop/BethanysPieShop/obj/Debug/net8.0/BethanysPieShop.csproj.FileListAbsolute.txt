@@ -24,3 +24,5 @@ C:\Users\Tim\Desktop\net\BethanysPieShop\BethanysPieShop\obj\Debug\net8.0\refint
 C:\Users\Tim\Desktop\net\BethanysPieShop\BethanysPieShop\obj\Debug\net8.0\BethanysPieShop.pdb
 C:\Users\Tim\Desktop\net\BethanysPieShop\BethanysPieShop\obj\Debug\net8.0\BethanysPieShop.genruntimeconfig.cache
 C:\Users\Tim\Desktop\net\BethanysPieShop\BethanysPieShop\obj\Debug\net8.0\ref\BethanysPieShop.dll
+C:\Users\Tim\Desktop\net\BethanysPieShop\BethanysPieShop\obj\Debug\net8.0\BethanysPieShop.RazorAssemblyInfo.cache
+C:\Users\Tim\Desktop\net\BethanysPieShop\BethanysPieShop\obj\Debug\net8.0\BethanysPieShop.RazorAssemblyInfo.cs
