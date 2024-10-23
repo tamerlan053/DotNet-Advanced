@@ -1,5 +1,4 @@
-BethanysPieShop/.vs/
-BethanysPieShop/BethanysPieShop/obj/
-BethanysPieShop/BethanysPieShop/bin/
-BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj/
-BethanysPieShop/BethanysPieShop/BethanysPieShop.csproj.user/
+/BethanysPieShop/BethanysPieShop/bin/
+/BethanysPieShop/BethanysPieShop/obj/
+/BethanysPieShop/.vs/
+/BethanysPieShop/BethanysPieShop/*.csproj.user
