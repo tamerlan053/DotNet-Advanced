@@ -5,7 +5,7 @@ namespace BethanysPieShop.Models
     {
         public List<ShoppingCartItem> ShoppingCartItems { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
 
-        public void AddToCard(Pie pie)
+        public void AddToCart(Pie pie)
         {
             throw new NotImplementedException();
         }
