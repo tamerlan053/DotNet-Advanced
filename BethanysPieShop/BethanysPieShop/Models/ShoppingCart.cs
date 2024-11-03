@@ -54,7 +54,28 @@ namespace BethanysPieShop.Models
 
         public int RemoveFromCart(Pie pie)
         {
-            throw new NotImplementedException();
+            var shoppingCartItem =
+                    _bethanysPieShopDbContext.ShoppingCartItems.SingleOrDefault(
+                        s => s.Pie.PieId == pie.PieId && s.ShoppingCartId == ShoppingCartId);
+
+            var localAmount = 0;
+
+            if (shoppingCartItem != null)
+            {
+                if (shoppingCartItem.Amount > 1)
+                {
+                    shoppingCartItem.Amount--;
+                    localAmount = shoppingCartItem.Amount;
+                }
+                else
+                {
+                    _bethanysPieShopDbContext.ShoppingCartItems.Remove(shoppingCartItem);
+                }
+            }
+
+            _bethanysPieShopDbContext.SaveChanges();
+
+            return localAmount;
         }
 
         public List<ShoppingCartItem> GetShoppingCartItems()
