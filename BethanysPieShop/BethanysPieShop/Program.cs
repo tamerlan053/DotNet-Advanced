@@ -20,6 +20,7 @@ builder.Services.AddDbContext<BethanysPieShopDbContext>(options => {
 var app = builder.Build();
 
 app.UseStaticFiles();
+app.UseSession();
 
 if (app.Environment.IsDevelopment())
 {
