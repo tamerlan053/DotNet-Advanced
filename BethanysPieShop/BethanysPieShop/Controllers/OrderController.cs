@@ -22,7 +22,14 @@ namespace BethanysPieShop.Controllers
         [HttpPost]
         public IActionResult Checkout(Order order)
         {
-            return null;
+            var items = _shoppingCart.GetShoppingCartItems();
+            _shoppingCart.ShoppingCartItems = items;
+
+            if (_shoppingCart.ShoppingCartItems.Count == 0)
+            {
+                ModelState.AddModelError("", "Your cart is empty, add some pies first");
+            }
+            return View(order);
         }
     }
 }
