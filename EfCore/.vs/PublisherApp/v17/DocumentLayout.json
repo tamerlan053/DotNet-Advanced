@@ -1,29 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Tim\\Desktop\\Pluralsight-NET\\ef-core-8-fundamentals\\M03 Query a Database\\Before\\",
+  "WorkspaceRootPath": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{808FAB6D-C534-4A7C-8054-20E32E2D381C}|PublisherConsole\\PublisherConsole.csproj|c:\\users\\tim\\desktop\\pluralsight-net\\ef-core-8-fundamentals\\m03 query a database\\before\\publisherconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{808FAB6D-C534-4A7C-8054-20E32E2D381C}|PublisherConsole\\PublisherConsole.csproj|solutionrelative:publisherconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{808FAB6D-C534-4A7C-8054-20E32E2D381C}|PublisherConsole\\PublisherConsole.csproj|c:\\users\\tim\\documents\\dotnetadvanced\\leermaterialen\\4-entity-framework\\ef-core-8-fundamentals\\m05 migrations\\before\\publisherconsole\\publisherconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{808FAB6D-C534-4A7C-8054-20E32E2D381C}|PublisherConsole\\PublisherConsole.csproj|solutionrelative:publisherconsole\\publisherconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PubDatabase/True/SqlTable/dbo.Authors.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{C6EF47CA-0433-4D22-B799-9D140ADA4753}|PublisherData\\PublisherData.csproj|c:\\users\\tim\\documents\\dotnetadvanced\\leermaterialen\\4-entity-framework\\ef-core-8-fundamentals\\m05 migrations\\before\\publisherdata\\pubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6EF47CA-0433-4D22-B799-9D140ADA4753}|PublisherData\\PublisherData.csproj|solutionrelative:publisherdata\\pubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6EF47CA-0433-4D22-B799-9D140ADA4753}|PublisherData\\PublisherData.csproj|c:\\users\\tim\\desktop\\pluralsight-net\\ef-core-8-fundamentals\\m03 query a database\\before\\publisherdata\\publisherdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{C6EF47CA-0433-4D22-B799-9D140ADA4753}|PublisherData\\PublisherData.csproj|c:\\users\\tim\\documents\\dotnetadvanced\\leermaterialen\\4-entity-framework\\ef-core-8-fundamentals\\m05 migrations\\before\\publisherdata\\publisherdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C6EF47CA-0433-4D22-B799-9D140ADA4753}|PublisherData\\PublisherData.csproj|solutionrelative:publisherdata\\publisherdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A32B208-80A7-4BEF-82DB-065824CF0B31}|PublisherDomain\\PublisherDomain.csproj|c:\\users\\tim\\desktop\\pluralsight-net\\ef-core-8-fundamentals\\m03 query a database\\before\\publisherdomain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A32B208-80A7-4BEF-82DB-065824CF0B31}|PublisherDomain\\PublisherDomain.csproj|solutionrelative:publisherdomain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A32B208-80A7-4BEF-82DB-065824CF0B31}|PublisherDomain\\PublisherDomain.csproj|c:\\users\\tim\\documents\\dotnetadvanced\\leermaterialen\\4-entity-framework\\ef-core-8-fundamentals\\m05 migrations\\before\\publisherdomain\\publisherdomain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A32B208-80A7-4BEF-82DB-065824CF0B31}|PublisherDomain\\PublisherDomain.csproj|solutionrelative:publisherdomain\\publisherdomain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A32B208-80A7-4BEF-82DB-065824CF0B31}|PublisherDomain\\PublisherDomain.csproj|c:\\users\\tim\\desktop\\pluralsight-net\\ef-core-8-fundamentals\\m03 query a database\\before\\publisherdomain\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{808FAB6D-C534-4A7C-8054-20E32E2D381C}|PublisherConsole\\PublisherConsole.csproj|c:\\users\\tim\\documents\\dotnetadvanced\\leermaterialen\\4-entity-framework\\ef-core-8-fundamentals\\m05 migrations\\before\\publisherconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808FAB6D-C534-4A7C-8054-20E32E2D381C}|PublisherConsole\\PublisherConsole.csproj|solutionrelative:publisherconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A32B208-80A7-4BEF-82DB-065824CF0B31}|PublisherDomain\\PublisherDomain.csproj|c:\\users\\tim\\documents\\dotnetadvanced\\leermaterialen\\4-entity-framework\\ef-core-8-fundamentals\\m05 migrations\\before\\publisherdomain\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A32B208-80A7-4BEF-82DB-065824CF0B31}|PublisherDomain\\PublisherDomain.csproj|solutionrelative:publisherdomain\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6EF47CA-0433-4D22-B799-9D140ADA4753}|PublisherData\\PublisherData.csproj|c:\\users\\tim\\desktop\\pluralsight-net\\ef-core-8-fundamentals\\m03 query a database\\before\\publisherdata\\pubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6EF47CA-0433-4D22-B799-9D140ADA4753}|PublisherData\\PublisherData.csproj|solutionrelative:publisherdata\\pubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A32B208-80A7-4BEF-82DB-065824CF0B31}|PublisherDomain\\PublisherDomain.csproj|c:\\users\\tim\\documents\\dotnetadvanced\\leermaterialen\\4-entity-framework\\ef-core-8-fundamentals\\m05 migrations\\before\\publisherdomain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A32B208-80A7-4BEF-82DB-065824CF0B31}|PublisherDomain\\PublisherDomain.csproj|solutionrelative:publisherdomain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 33,
+          "SelectedChildIndex": 37,
           "Children": [
             {
               "$type": "Bookmark",
@@ -156,77 +161,93 @@
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "dbo.Authors [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PubDatabase/True/SqlTable/dbo.Authors.sql",
-              "ToolTip": "dbo.Authors [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-16T21:54:14.991Z",
-              "EditorCaption": ""
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherDomain\\Book.cs",
+              "RelativeDocumentMoniker": "PublisherDomain\\Book.cs",
+              "ToolTip": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherDomain\\Book.cs",
+              "RelativeToolTip": "PublisherDomain\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:49:19.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherDomain\\Author.cs",
+              "RelativeDocumentMoniker": "PublisherDomain\\Author.cs",
+              "ToolTip": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherDomain\\Author.cs",
+              "RelativeToolTip": "PublisherDomain\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:49:19.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherConsole\\Program.cs",
+              "RelativeDocumentMoniker": "PublisherConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherConsole\\Program.cs",
+              "RelativeToolTip": "PublisherConsole\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:49:19.877Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\Tim\\Desktop\\Pluralsight-NET\\ef-core-8-fundamentals\\M03 Query a Database\\Before\\PublisherDomain\\Book.cs",
-              "RelativeDocumentMoniker": "PublisherDomain\\Book.cs",
-              "ToolTip": "C:\\Users\\Tim\\Desktop\\Pluralsight-NET\\ef-core-8-fundamentals\\M03 Query a Database\\Before\\PublisherDomain\\Book.cs",
-              "RelativeToolTip": "PublisherDomain\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T21:04:43.993Z",
-              "EditorCaption": ""
+              "Title": "PublisherDomain.csproj",
+              "DocumentMoniker": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherDomain\\PublisherDomain.csproj",
+              "RelativeDocumentMoniker": "PublisherDomain\\PublisherDomain.csproj",
+              "ToolTip": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherDomain\\PublisherDomain.csproj",
+              "RelativeToolTip": "PublisherDomain\\PublisherDomain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-23T11:49:19.88Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "PublisherData.csproj",
-              "DocumentMoniker": "C:\\Users\\Tim\\Desktop\\Pluralsight-NET\\ef-core-8-fundamentals\\M03 Query a Database\\Before\\PublisherData\\PublisherData.csproj",
+              "DocumentMoniker": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherData\\PublisherData.csproj",
               "RelativeDocumentMoniker": "PublisherData\\PublisherData.csproj",
-              "ToolTip": "C:\\Users\\Tim\\Desktop\\Pluralsight-NET\\ef-core-8-fundamentals\\M03 Query a Database\\Before\\PublisherData\\PublisherData.csproj",
+              "ToolTip": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherData\\PublisherData.csproj",
               "RelativeToolTip": "PublisherData\\PublisherData.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-16T21:04:44.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T11:49:19.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PubContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherData\\PubContext.cs",
+              "RelativeDocumentMoniker": "PublisherData\\PubContext.cs",
+              "ToolTip": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherData\\PubContext.cs",
+              "RelativeToolTip": "PublisherData\\PubContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:49:19.929Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tim\\Desktop\\Pluralsight-NET\\ef-core-8-fundamentals\\M03 Query a Database\\Before\\PublisherConsole\\Program.cs",
-              "RelativeDocumentMoniker": "PublisherConsole\\Program.cs",
-              "ToolTip": "C:\\Users\\Tim\\Desktop\\Pluralsight-NET\\ef-core-8-fundamentals\\M03 Query a Database\\Before\\PublisherConsole\\Program.cs",
-              "RelativeToolTip": "PublisherConsole\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAwwCIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T21:04:44.065Z",
+              "Title": "PublisherConsole.csproj",
+              "DocumentMoniker": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherConsole\\PublisherConsole.csproj",
+              "RelativeDocumentMoniker": "PublisherConsole\\PublisherConsole.csproj",
+              "ToolTip": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherConsole\\PublisherConsole.csproj",
+              "RelativeToolTip": "PublisherConsole\\PublisherConsole.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-23T11:49:19.93Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PubContext.cs",
-              "DocumentMoniker": "C:\\Users\\Tim\\Desktop\\Pluralsight-NET\\ef-core-8-fundamentals\\M03 Query a Database\\Before\\PublisherData\\PubContext.cs",
-              "RelativeDocumentMoniker": "PublisherData\\PubContext.cs",
-              "ToolTip": "C:\\Users\\Tim\\Desktop\\Pluralsight-NET\\ef-core-8-fundamentals\\M03 Query a Database\\Before\\PublisherData\\PubContext.cs",
-              "RelativeToolTip": "PublisherData\\PubContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T21:04:44.069Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Author.cs",
-              "DocumentMoniker": "C:\\Users\\Tim\\Desktop\\Pluralsight-NET\\ef-core-8-fundamentals\\M03 Query a Database\\Before\\PublisherDomain\\Author.cs",
-              "RelativeDocumentMoniker": "PublisherDomain\\Author.cs",
-              "ToolTip": "C:\\Users\\Tim\\Desktop\\Pluralsight-NET\\ef-core-8-fundamentals\\M03 Query a Database\\Before\\PublisherDomain\\Author.cs",
-              "RelativeToolTip": "PublisherDomain\\Author.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T21:04:44.07Z"
             }
           ]
         }

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PublisherConsole
-build_property.ProjectDir = C:\Users\Tim\Desktop\Pluralsight-NET\ef-core-8-fundamentals\M03 Query a Database\Before\PublisherConsole\
+build_property.ProjectDir = C:\Users\Tim\Documents\DotNetAdvanced\Leermaterialen\4-Entity-Framework\ef-core-8-fundamentals\M05 Migrations\Before\PublisherConsole\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tim\\Desktop\\Pluralsight-NET\\ef-core-8-fundamentals\\M03 Query a Database\\Before\\PublisherDomain\\PublisherDomain.csproj": {}
+    "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherDomain\\PublisherDomain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tim\\Desktop\\Pluralsight-NET\\ef-core-8-fundamentals\\M03 Query a Database\\Before\\PublisherDomain\\PublisherDomain.csproj": {
+    "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherDomain\\PublisherDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tim\\Desktop\\Pluralsight-NET\\ef-core-8-fundamentals\\M03 Query a Database\\Before\\PublisherDomain\\PublisherDomain.csproj",
+        "projectUniqueName": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherDomain\\PublisherDomain.csproj",
         "projectName": "PublisherDomain",
-        "projectPath": "C:\\Users\\Tim\\Desktop\\Pluralsight-NET\\ef-core-8-fundamentals\\M03 Query a Database\\Before\\PublisherDomain\\PublisherDomain.csproj",
+        "projectPath": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherDomain\\PublisherDomain.csproj",
         "packagesPath": "C:\\Users\\Tim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tim\\Desktop\\Pluralsight-NET\\ef-core-8-fundamentals\\M03 Query a Database\\Before\\PublisherDomain\\obj\\",
+        "outputPath": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherDomain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

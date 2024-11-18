@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PY+WiPWwkU4=",
+  "dgSpecHash": "AHCpLgqpIuY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tim\\Desktop\\Pluralsight-NET\\ef-core-8-fundamentals\\M03 Query a Database\\Before\\PublisherDomain\\PublisherDomain.csproj",
+  "projectFilePath": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherDomain\\PublisherDomain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
