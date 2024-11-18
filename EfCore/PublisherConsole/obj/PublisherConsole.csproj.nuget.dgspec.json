@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherConsole\\PublisherConsole.csproj": {}
+    "C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherConsole\\PublisherConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherConsole\\PublisherConsole.csproj": {
+    "C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherConsole\\PublisherConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherConsole\\PublisherConsole.csproj",
+        "projectUniqueName": "C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherConsole\\PublisherConsole.csproj",
         "projectName": "PublisherConsole",
-        "projectPath": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherConsole\\PublisherConsole.csproj",
+        "projectPath": "C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherConsole\\PublisherConsole.csproj",
         "packagesPath": "C:\\Users\\Tim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherConsole\\obj\\",
+        "outputPath": "C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherConsole\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherData\\PublisherData.csproj": {
-                "projectPath": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherData\\PublisherData.csproj"
+              "C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherData\\PublisherData.csproj": {
+                "projectPath": "C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherData\\PublisherData.csproj"
               },
-              "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherDomain\\PublisherDomain.csproj": {
-                "projectPath": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherDomain\\PublisherDomain.csproj"
+              "C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherDomain\\PublisherDomain.csproj": {
+                "projectPath": "C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherDomain\\PublisherDomain.csproj"
               }
             }
           }
@@ -56,6 +56,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -76,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherData\\PublisherData.csproj": {
+    "C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherData\\PublisherData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherData\\PublisherData.csproj",
+        "projectUniqueName": "C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherData\\PublisherData.csproj",
         "projectName": "PublisherData",
-        "projectPath": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherData\\PublisherData.csproj",
+        "projectPath": "C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherData\\PublisherData.csproj",
         "packagesPath": "C:\\Users\\Tim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherData\\obj\\",
+        "outputPath": "C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -105,8 +113,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherDomain\\PublisherDomain.csproj": {
-                "projectPath": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherDomain\\PublisherDomain.csproj"
+              "C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherDomain\\PublisherDomain.csproj": {
+                "projectPath": "C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherDomain\\PublisherDomain.csproj"
               }
             }
           }
@@ -128,7 +136,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.*, )"
+              "version": "[8.0.11, )"
             }
           },
           "imports": [
@@ -151,14 +159,14 @@
         }
       }
     },
-    "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherDomain\\PublisherDomain.csproj": {
+    "C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherDomain\\PublisherDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherDomain\\PublisherDomain.csproj",
+        "projectUniqueName": "C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherDomain\\PublisherDomain.csproj",
         "projectName": "PublisherDomain",
-        "projectPath": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherDomain\\PublisherDomain.csproj",
+        "projectPath": "C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherDomain\\PublisherDomain.csproj",
         "packagesPath": "C:\\Users\\Tim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherDomain\\obj\\",
+        "outputPath": "C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherDomain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

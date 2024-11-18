@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AHCpLgqpIuY=",
+  "dgSpecHash": "rTk4hB10kQY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tim\\Documents\\DotNetAdvanced\\Leermaterialen\\4-Entity-Framework\\ef-core-8-fundamentals\\M05 Migrations\\Before\\PublisherDomain\\PublisherDomain.csproj",
+  "projectFilePath": "C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherDomain\\PublisherDomain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

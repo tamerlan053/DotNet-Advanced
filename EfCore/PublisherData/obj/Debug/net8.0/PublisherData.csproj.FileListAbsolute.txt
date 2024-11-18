@@ -13,3 +13,19 @@ M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherData\obj\Deb
 M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherData\obj\Debug\net8.0\refint\PublisherData.dll
 M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherData\obj\Debug\net8.0\PublisherData.pdb
 M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherData\obj\Debug\net8.0\ref\PublisherData.dll
+C:\Users\Tim\Desktop\net\EfCore\PublisherData\bin\Debug\net8.0\PublisherData.deps.json
+C:\Users\Tim\Desktop\net\EfCore\PublisherData\bin\Debug\net8.0\PublisherData.dll
+C:\Users\Tim\Desktop\net\EfCore\PublisherData\bin\Debug\net8.0\PublisherData.pdb
+C:\Users\Tim\Desktop\net\EfCore\PublisherData\bin\Debug\net8.0\PublisherDomain.dll
+C:\Users\Tim\Desktop\net\EfCore\PublisherData\bin\Debug\net8.0\PublisherDomain.pdb
+C:\Users\Tim\Desktop\net\EfCore\PublisherData\obj\Debug\net8.0\PublisherData.csproj.AssemblyReference.cache
+C:\Users\Tim\Desktop\net\EfCore\PublisherData\obj\Debug\net8.0\PublisherData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\Desktop\net\EfCore\PublisherData\obj\Debug\net8.0\PublisherData.AssemblyInfoInputs.cache
+C:\Users\Tim\Desktop\net\EfCore\PublisherData\obj\Debug\net8.0\PublisherData.AssemblyInfo.cs
+C:\Users\Tim\Desktop\net\EfCore\PublisherData\obj\Debug\net8.0\PublisherData.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Desktop\net\EfCore\PublisherData\obj\Debug\net8.0\PublisherData.sourcelink.json
+C:\Users\Tim\Desktop\net\EfCore\PublisherData\obj\Debug\net8.0\Publishe.C9B3FD54.Up2Date
+C:\Users\Tim\Desktop\net\EfCore\PublisherData\obj\Debug\net8.0\PublisherData.dll
+C:\Users\Tim\Desktop\net\EfCore\PublisherData\obj\Debug\net8.0\refint\PublisherData.dll
+C:\Users\Tim\Desktop\net\EfCore\PublisherData\obj\Debug\net8.0\PublisherData.pdb
+C:\Users\Tim\Desktop\net\EfCore\PublisherData\obj\Debug\net8.0\ref\PublisherData.dll
