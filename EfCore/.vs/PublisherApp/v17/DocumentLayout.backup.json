@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Tim\\Desktop\\net\\EfCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherData\\Migrations\\20241118205426_SeedAuthors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PublisherData\\Migrations\\20241118205426_SeedAuthors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C6EF47CA-0433-4D22-B799-9D140ADA4753}|PublisherData\\PublisherData.csproj|c:\\users\\tim\\desktop\\net\\efcore\\publisherdata\\pubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6EF47CA-0433-4D22-B799-9D140ADA4753}|PublisherData\\PublisherData.csproj|solutionrelative:publisherdata\\pubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 30,
+          "SelectedChildIndex": 36,
           "Children": [
             {
               "$type": "Bookmark",
@@ -170,20 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20241118205426_SeedAuthors.cs",
-              "DocumentMoniker": "C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherData\\Migrations\\20241118205426_SeedAuthors.cs",
-              "RelativeDocumentMoniker": "PublisherData\\Migrations\\20241118205426_SeedAuthors.cs",
-              "ToolTip": "C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherData\\Migrations\\20241118205426_SeedAuthors.cs",
-              "RelativeToolTip": "PublisherData\\Migrations\\20241118205426_SeedAuthors.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T20:54:27.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "20241118200355_initial.cs",
               "DocumentMoniker": "C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherData\\Migrations\\20241118200355_initial.cs",
               "RelativeDocumentMoniker": "PublisherData\\Migrations\\20241118200355_initial.cs",
@@ -196,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherDomain\\Book.cs",
               "RelativeDocumentMoniker": "PublisherDomain\\Book.cs",
@@ -209,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Author.cs",
               "DocumentMoniker": "C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherDomain\\Author.cs",
               "RelativeDocumentMoniker": "PublisherDomain\\Author.cs",
@@ -222,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherConsole\\Program.cs",
               "RelativeDocumentMoniker": "PublisherConsole\\Program.cs",
@@ -235,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "PublisherDomain.csproj",
               "DocumentMoniker": "C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherDomain\\PublisherDomain.csproj",
               "RelativeDocumentMoniker": "PublisherDomain\\PublisherDomain.csproj",
@@ -248,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "PublisherData.csproj",
               "DocumentMoniker": "C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherData\\PublisherData.csproj",
               "RelativeDocumentMoniker": "PublisherData\\PublisherData.csproj",
@@ -261,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PubContext.cs",
               "DocumentMoniker": "C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherData\\PubContext.cs",
               "RelativeDocumentMoniker": "PublisherData\\PubContext.cs",
@@ -274,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "PublisherConsole.csproj",
               "DocumentMoniker": "C:\\Users\\Tim\\Desktop\\net\\EfCore\\PublisherConsole\\PublisherConsole.csproj",
               "RelativeDocumentMoniker": "PublisherConsole\\PublisherConsole.csproj",
