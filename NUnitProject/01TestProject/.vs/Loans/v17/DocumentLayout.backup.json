@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tim\\Desktop\\net\\NUnitProject\\01TestProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{279E7182-2B4E-4C06-ACC7-85F05FA895F3}|Loan.Tests\\Loan.Tests.csproj|c:\\users\\tim\\desktop\\net\\nunitproject\\01testproject\\loan.tests\\loantermshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279E7182-2B4E-4C06-ACC7-85F05FA895F3}|Loan.Tests\\Loan.Tests.csproj|solutionrelative:loan.tests\\loantermshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3BF21B-51F5-4A43-AC06-66F5031BA5A1}|Loans\\Loans.csproj|c:\\users\\tim\\desktop\\net\\nunitproject\\01testproject\\loans\\domain\\applications\\loanterm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3BF21B-51F5-4A43-AC06-66F5031BA5A1}|Loans\\Loans.csproj|solutionrelative:loans\\domain\\applications\\loanterm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3BF21B-51F5-4A43-AC06-66F5031BA5A1}|Loans\\Loans.csproj|c:\\users\\tim\\desktop\\net\\nunitproject\\01testproject\\loans\\domain\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3BF21B-51F5-4A43-AC06-66F5031BA5A1}|Loans\\Loans.csproj|solutionrelative:loans\\domain\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279E7182-2B4E-4C06-ACC7-85F05FA895F3}|Loan.Tests\\Loan.Tests.csproj|c:\\users\\tim\\desktop\\net\\nunitproject\\01testproject\\loan.tests\\loan.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{279E7182-2B4E-4C06-ACC7-85F05FA895F3}|Loan.Tests\\Loan.Tests.csproj|solutionrelative:loan.tests\\loan.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3BF21B-51F5-4A43-AC06-66F5031BA5A1}|Loans\\Loans.csproj|c:\\users\\tim\\desktop\\net\\nunitproject\\01testproject\\loans\\loans.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D3BF21B-51F5-4A43-AC06-66F5031BA5A1}|Loans\\Loans.csproj|solutionrelative:loans\\loans.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 33,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValueObject.cs",
+              "DocumentMoniker": "C:\\Users\\Tim\\Desktop\\net\\NUnitProject\\01TestProject\\Loans\\Domain\\ValueObject.cs",
+              "RelativeDocumentMoniker": "Loans\\Domain\\ValueObject.cs",
+              "ToolTip": "C:\\Users\\Tim\\Desktop\\net\\NUnitProject\\01TestProject\\Loans\\Domain\\ValueObject.cs",
+              "RelativeToolTip": "Loans\\Domain\\ValueObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:50:51.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoanTerm.cs",
+              "DocumentMoniker": "C:\\Users\\Tim\\Desktop\\net\\NUnitProject\\01TestProject\\Loans\\Domain\\Applications\\LoanTerm.cs",
+              "RelativeDocumentMoniker": "Loans\\Domain\\Applications\\LoanTerm.cs",
+              "ToolTip": "C:\\Users\\Tim\\Desktop\\net\\NUnitProject\\01TestProject\\Loans\\Domain\\Applications\\LoanTerm.cs",
+              "RelativeToolTip": "Loans\\Domain\\Applications\\LoanTerm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:03:07.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoanTermShould.cs",
+              "DocumentMoniker": "C:\\Users\\Tim\\Desktop\\net\\NUnitProject\\01TestProject\\Loan.Tests\\LoanTermShould.cs",
+              "RelativeDocumentMoniker": "Loan.Tests\\LoanTermShould.cs",
+              "ToolTip": "C:\\Users\\Tim\\Desktop\\net\\NUnitProject\\01TestProject\\Loan.Tests\\LoanTermShould.cs",
+              "RelativeToolTip": "Loan.Tests\\LoanTermShould.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:03:03.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Loans.csproj",
+              "DocumentMoniker": "C:\\Users\\Tim\\Desktop\\net\\NUnitProject\\01TestProject\\Loans\\Loans.csproj",
+              "RelativeDocumentMoniker": "Loans\\Loans.csproj",
+              "ToolTip": "C:\\Users\\Tim\\Desktop\\net\\NUnitProject\\01TestProject\\Loans\\Loans.csproj",
+              "RelativeToolTip": "Loans\\Loans.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T17:51:50.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Loan.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Tim\\Desktop\\net\\NUnitProject\\01TestProject\\Loan.Tests\\Loan.Tests.csproj",
+              "RelativeDocumentMoniker": "Loan.Tests\\Loan.Tests.csproj",
+              "ToolTip": "C:\\Users\\Tim\\Desktop\\net\\NUnitProject\\01TestProject\\Loan.Tests\\Loan.Tests.csproj",
+              "RelativeToolTip": "Loan.Tests\\Loan.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T17:51:45.234Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

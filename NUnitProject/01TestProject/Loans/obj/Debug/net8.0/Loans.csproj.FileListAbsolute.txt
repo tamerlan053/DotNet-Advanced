@@ -1,0 +1,11 @@
+C:\Users\Tim\Downloads\nunit-3-dotnet-testing-introduction\02\demos\before\01TestProject\Loans\bin\Debug\net8.0\Loans.deps.json
+C:\Users\Tim\Downloads\nunit-3-dotnet-testing-introduction\02\demos\before\01TestProject\Loans\bin\Debug\net8.0\Loans.dll
+C:\Users\Tim\Downloads\nunit-3-dotnet-testing-introduction\02\demos\before\01TestProject\Loans\bin\Debug\net8.0\Loans.pdb
+C:\Users\Tim\Downloads\nunit-3-dotnet-testing-introduction\02\demos\before\01TestProject\Loans\obj\Debug\net8.0\Loans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\Downloads\nunit-3-dotnet-testing-introduction\02\demos\before\01TestProject\Loans\obj\Debug\net8.0\Loans.AssemblyInfoInputs.cache
+C:\Users\Tim\Downloads\nunit-3-dotnet-testing-introduction\02\demos\before\01TestProject\Loans\obj\Debug\net8.0\Loans.AssemblyInfo.cs
+C:\Users\Tim\Downloads\nunit-3-dotnet-testing-introduction\02\demos\before\01TestProject\Loans\obj\Debug\net8.0\Loans.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Downloads\nunit-3-dotnet-testing-introduction\02\demos\before\01TestProject\Loans\obj\Debug\net8.0\Loans.dll
+C:\Users\Tim\Downloads\nunit-3-dotnet-testing-introduction\02\demos\before\01TestProject\Loans\obj\Debug\net8.0\refint\Loans.dll
+C:\Users\Tim\Downloads\nunit-3-dotnet-testing-introduction\02\demos\before\01TestProject\Loans\obj\Debug\net8.0\Loans.pdb
+C:\Users\Tim\Downloads\nunit-3-dotnet-testing-introduction\02\demos\before\01TestProject\Loans\obj\Debug\net8.0\ref\Loans.dll
