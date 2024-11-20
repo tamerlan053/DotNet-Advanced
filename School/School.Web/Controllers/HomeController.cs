@@ -19,7 +19,9 @@ namespace School.Web.Controllers
         public IActionResult Index()
         {
             //TODO: set the view model to be a list of enrollments with student and course
-            return View();
+            var enrollments = _enrollmentRepository.GetAllGradedEnrollmentsWithStudentAndCourse();
+
+            return View(enrollments);
         }
 
         public IActionResult Privacy()
