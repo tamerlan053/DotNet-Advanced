@@ -1,12 +1,19 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿@model IEnumerable<School.Web.Models.Enrollment>
+
+@{
+    ViewData["Title"] = "Welcome";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    
-    <ul class="list-group">
-        <li class="list-group-item">TODO: show student enrollment info. E.g.: </li>
-        <li class="list-group-item">Firstname Lastname - CourseTitle (Grade)</li>
-    </ul>
+<div class="container d-flex justify-content-center align-items-center vh-100">
+    <div class="text-center">
+        <h1 class="mb-4">Welcome</h1>
+        <ul class="list-group text-center">
+            @foreach (var enrollment in Model)
+            {
+                <li class="list-group-item">
+                    @enrollment.Student.FirstName @enrollment.Student.LastName - @enrollment.Course.Title (@enrollment.Grade)
+                </li>
+            }
+        </ul>
+    </div>
 </div>
