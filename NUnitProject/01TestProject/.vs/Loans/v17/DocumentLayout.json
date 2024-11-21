@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{279E7182-2B4E-4C06-ACC7-85F05FA895F3}|Loan.Tests\\Loan.Tests.csproj|solutionrelative:loan.tests\\loantermshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D3BF21B-51F5-4A43-AC06-66F5031BA5A1}|Loans\\Loans.csproj|c:\\users\\tim\\desktop\\net\\nunitproject\\01testproject\\loans\\domain\\applications\\loanterm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D3BF21B-51F5-4A43-AC06-66F5031BA5A1}|Loans\\Loans.csproj|solutionrelative:loans\\domain\\applications\\loanterm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0D3BF21B-51F5-4A43-AC06-66F5031BA5A1}|Loans\\Loans.csproj|c:\\users\\tim\\desktop\\net\\nunitproject\\01testproject\\loans\\domain\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D3BF21B-51F5-4A43-AC06-66F5031BA5A1}|Loans\\Loans.csproj|solutionrelative:loans\\domain\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3BF21B-51F5-4A43-AC06-66F5031BA5A1}|Loans\\Loans.csproj|c:\\users\\tim\\desktop\\net\\nunitproject\\01testproject\\loans\\domain\\applications\\loanterm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3BF21B-51F5-4A43-AC06-66F5031BA5A1}|Loans\\Loans.csproj|solutionrelative:loans\\domain\\applications\\loanterm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{279E7182-2B4E-4C06-ACC7-85F05FA895F3}|Loan.Tests\\Loan.Tests.csproj|c:\\users\\tim\\desktop\\net\\nunitproject\\01testproject\\loan.tests\\loan.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -158,19 +158,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ValueObject.cs",
               "DocumentMoniker": "C:\\Users\\Tim\\Desktop\\net\\NUnitProject\\01TestProject\\Loans\\Domain\\ValueObject.cs",
               "RelativeDocumentMoniker": "Loans\\Domain\\ValueObject.cs",
               "ToolTip": "C:\\Users\\Tim\\Desktop\\net\\NUnitProject\\01TestProject\\Loans\\Domain\\ValueObject.cs",
               "RelativeToolTip": "Loans\\Domain\\ValueObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T18:50:51.076Z"
+              "WhenOpened": "2024-11-19T18:50:51.076Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LoanTerm.cs",
               "DocumentMoniker": "C:\\Users\\Tim\\Desktop\\net\\NUnitProject\\01TestProject\\Loans\\Domain\\Applications\\LoanTerm.cs",
               "RelativeDocumentMoniker": "Loans\\Domain\\Applications\\LoanTerm.cs",
@@ -178,7 +179,8 @@
               "RelativeToolTip": "Loans\\Domain\\Applications\\LoanTerm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T18:03:07.419Z"
+              "WhenOpened": "2024-11-19T18:03:07.419Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -188,7 +190,7 @@
               "RelativeDocumentMoniker": "Loan.Tests\\LoanTermShould.cs",
               "ToolTip": "C:\\Users\\Tim\\Desktop\\net\\NUnitProject\\01TestProject\\Loan.Tests\\LoanTermShould.cs",
               "RelativeToolTip": "Loan.Tests\\LoanTermShould.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAkwDcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T18:03:03.688Z",
               "EditorCaption": ""
